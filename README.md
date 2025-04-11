@@ -2,8 +2,6 @@
 
 ### **📚**  Education
 
-- Sungshin Women's University, Computer Engineering
-
 <!--https://simpleicons.org/-->
 <div align='left'><h3><b>🛠 Tech Stack </b></h3>
 <center><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
@@ -19,8 +17,6 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Android Studio-DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
 <br>
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/></a>
