@@ -2,6 +2,8 @@
 
 ### **📚**  Education
 
+<!-- Sungshin Women's University, Computer Engineering -->
+
 <!--https://simpleicons.org/-->
 <div align='left'><h3><b>🛠 Tech Stack </b></h3>
 <center><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
