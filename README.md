@@ -27,6 +27,8 @@ Sungshin Women's University, Computer Engineering
 ### 📫 How to reach me
 
 개발블로그: [https://velog.io/@ddolly518/series](https://velog.io/@ddolly518/series)<br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kms_0o0)](https://solved.ac/profile/kms_0o0)
 <!--
 **ddolly518/ddolly518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
