@@ -2,7 +2,7 @@
 
 ### **📚**  Education
 
-<!-- Sungshin Women's University, Computer Engineering -->
+Sungshin Women's University, Computer Engineering
 
 <!--https://simpleicons.org/-->
 <div align='left'><h3><b>🛠 Tech Stack </b></h3>
@@ -23,6 +23,10 @@
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a>
+
+### 📫 How to reach me
+
+- 개발블로그: [https://velog.io/@ddolly518/posts](https://velog.io/@ddolly518/posts)<br>
 <!--
 **ddolly518/ddolly518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
